@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DB3BF02F1ED5240200407A66"
+               BlueprintIdentifier = "DB2E88551ED5DCCA00BBED2A"
                BuildableName = "TreasureHunting.app"
                BlueprintName = "TreasureHunting"
                ReferencedContainer = "container:TreasureHunting.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DB3BF0491ED5240200407A66"
+               BlueprintIdentifier = "DB2E886E1ED5DCCA00BBED2A"
                BuildableName = "TreasureHuntingTests.xctest"
                BlueprintName = "TreasureHuntingTests"
                ReferencedContainer = "container:TreasureHunting.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DB3BF0541ED5240200407A66"
+               BlueprintIdentifier = "DB2E88791ED5DCCA00BBED2A"
                BuildableName = "TreasureHuntingUITests.xctest"
                BlueprintName = "TreasureHuntingUITests"
                ReferencedContainer = "container:TreasureHunting.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DB3BF02F1ED5240200407A66"
+            BlueprintIdentifier = "DB2E88551ED5DCCA00BBED2A"
             BuildableName = "TreasureHunting.app"
             BlueprintName = "TreasureHunting"
             ReferencedContainer = "container:TreasureHunting.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DB3BF02F1ED5240200407A66"
+            BlueprintIdentifier = "DB2E88551ED5DCCA00BBED2A"
             BuildableName = "TreasureHunting.app"
             BlueprintName = "TreasureHunting"
             ReferencedContainer = "container:TreasureHunting.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DB3BF02F1ED5240200407A66"
+            BlueprintIdentifier = "DB2E88551ED5DCCA00BBED2A"
             BuildableName = "TreasureHunting.app"
             BlueprintName = "TreasureHunting"
             ReferencedContainer = "container:TreasureHunting.xcodeproj">
